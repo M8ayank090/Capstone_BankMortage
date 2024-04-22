@@ -1,4 +1,4 @@
-# Mortgage_Bank_Loan_Analtsics
+# Mortgage_Bank_Loan
 Mortgage Bank Loan Analytics with ARIMA and Machine Learning
 Mortgage Loans Analytics
 Banks can now use mortgage loan analytics using Data Science techniques. The system can provide detail information of the mortgage loans and the mortgage loan markets. It is a powerful tool for mortgage brokers to seek counterparties and generate trading interests and is useful for the CFOs to conduct what-ifs scenarios on the balance sheets.
